@@ -6,6 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas
 import sklearn.decomposition as de
+import sklearn.cluster
 def sign(v):
     if v>=0:
         return 1
