@@ -5,7 +5,7 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas
-import sklearn.decomposition
+import sklearn.decomposition as de
 def sign(v):
     if v>=0:
         return 1
